@@ -1,0 +1,10 @@
+com\mycompany\cliente_protobuf\ProductoProto.class
+com\mycompany\cliente_protobuf\ProductoProto$ListaProductos$Builder.class
+com\mycompany\cliente_protobuf\ProductoProto$Producto$1.class
+com\mycompany\cliente_protobuf\Cliente_Protobuf.class
+com\mycompany\cliente_protobuf\ProductoProto$ListaProductos.class
+com\mycompany\cliente_protobuf\ProductoProto$ListaProductos$1.class
+com\mycompany\cliente_protobuf\ProductoProto$ProductoOrBuilder.class
+com\mycompany\cliente_protobuf\ProductoProto$Producto.class
+com\mycompany\cliente_protobuf\ProductoProto$ListaProductosOrBuilder.class
+com\mycompany\cliente_protobuf\ProductoProto$Producto$Builder.class
